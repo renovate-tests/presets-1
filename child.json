@@ -1,0 +1,3 @@
+{
+  "extends": ["github>renovate-tests/presets-1"]
+}
