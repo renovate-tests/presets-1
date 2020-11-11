@@ -1,0 +1,6 @@
+{
+  "packageRules": [{
+    "packagePatterns": ["*"],
+    "semanticCommits": true
+  }]
+}
